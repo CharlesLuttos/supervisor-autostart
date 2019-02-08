@@ -1,5 +1,5 @@
-# supervisord-autostart
-Auto start supervisord<br>
+# supervisor-autostart
+Auto start supervisor<br>
 
 **First**<br>
 sudo nano /etc/init.d/supervisord<br>
