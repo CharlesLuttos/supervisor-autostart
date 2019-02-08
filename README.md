@@ -5,7 +5,7 @@ Auto start supervisord<br>
 sudo nano /etc/init.d/supervisord<br>
 
 **then**<br>
-Copy and paste auto-script content<br>
+Copy and paste auto-start content<br>
 
 **and..**<br>
 sudo chmod +x /etc/init.d/supervisord<br>
